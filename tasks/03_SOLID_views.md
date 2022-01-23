@@ -4,4 +4,4 @@
 
 Оценка: 8
 
-Ссылка на PR: pass
+Ссылка на PR: https://github.com/bisuMei/AsyncApi
