@@ -4,4 +4,10 @@
 
 Оценка: 5
 
-Ссылка на PR: pass
+В etl нету pull requests, поэтому ревью проводилось на пул реквестах первого спринта AsyncApi
+
+Ссылки на PR: 
+
+https://github.com/bisuMei/AsyncApi/pull/14
+https://github.com/bisuMei/AsyncApi/pull/21
+https://github.com/bisuMei/AsyncApi/pull/22
